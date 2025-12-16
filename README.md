@@ -73,7 +73,7 @@ Tenho perfil analítico, gosto de entender o fluxo completo das aplicações —
 
 ![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursoares&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursoares&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursoares&layout=compact&theme=dark&cache_seconds=1&hide=html,css)
 
 > As porcentagens refletem o uso real das linguagens nos repositórios públicos.
 
