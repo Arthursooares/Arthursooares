@@ -8,9 +8,11 @@
 
 ## 🧠 Sobre mim
 
-Atuo no desenvolvimento de aplicações **backend e mobile**, com experiência prática em projetos que envolvem **APIs REST**, **integrações**, **automações com n8n** e organização de sistemas em camadas.
+Atuo no desenvolvimento de aplicações **backend e mobile**, com experiência prática em projetos que envolvem **APIs REST**, **integrações entre sistemas** e **automações com n8n**.
 
-Tenho perfil analítico, gosto de entender o fluxo completo das aplicações — do banco de dados à interface — e estou sempre buscando boas práticas, código limpo e soluções eficientes.
+Tenho perfil analítico e gosto de compreender o fluxo completo das aplicações — do **banco de dados à interface**, passando por lógica, arquitetura e integração. Busco constantemente boas práticas, código limpo e soluções eficientes, sempre aprendendo a partir de projetos reais.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -29,50 +31,59 @@ Tenho perfil analítico, gosto de entender o fluxo completo das aplicações —
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
+📱 Desenvolvimento **Android com Kotlin e Jetpack Compose**  
+🧩 Backend com **Java (Spring Boot)** e **Node.js**  
+🔁 Automações e integrações com **n8n**, **JavaScript** e **Python**  
+🗄️ Modelagem e consultas com **SQL** e **MongoDB**
 
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
 - **Kotlin**
 - **Java**
-- **JavaScript (integrações e automações)**
+- **JavaScript**
+- **Python**
+- **SQL**
 
 ### Backend
 - **Spring Boot**
+- **Node.js**
 - **APIs REST**
-- **Integração com MongoDB**
 - **Arquitetura em camadas (MVC)**
+- **Integração com MongoDB e bancos relacionais**
 
 ### Mobile
-- **Android (Java / Kotlin)**
+- **Android (Kotlin / Java)**
 - **Jetpack Compose**
-- **Navegação, estados e UI moderna**
+- **React Native**
+- Navegação, estados e UI moderna
 
 ### Automação & Integrações
-- **n8n** (workflows, webhooks, integrações com APIs e IA)
-- Consumo e orquestração de serviços externos
+- **n8n** (workflows, webhooks e integrações com APIs)
+- Orquestração de serviços e fluxos de dados
 
 ### Ferramentas
 - Git & GitHub  
 - Android Studio  
 - Spring Tools  
-- Figma  
 - Postman  
+- Figma  
 
 ---
 
 ## 📌 Projetos & Experiência
 
-- Desenvolvimento de **aplicações Android**, com foco em usabilidade e organização de código
-- Criação de **APIs REST** com Spring Boot
-- Integração de **backend + mobile**
-- Uso de **n8n para automações**, fluxos de dados e integração com serviços externos
+- Desenvolvimento de **aplicações Android** com foco em organização de código e usabilidade
+- Criação de **APIs REST** utilizando Spring Boot
+- Integração entre **backend e aplicações mobile**
+- Implementação de **automações com n8n**, integrando serviços e APIs externas
 - Projetos acadêmicos e práticos envolvendo:
   - Modelagem de dados
   - Arquitetura de sistemas
   - Integração entre camadas
-- Prototipação de interfaces no **Figma**, explorando UX/UI
+- Prototipação de interfaces no **Figma**, com foco em UX/UI
 
 ---
 
@@ -80,7 +91,7 @@ Tenho perfil analítico, gosto de entender o fluxo completo das aplicações —
 
 - Arquitetura de software
 - Padrões de projeto
-- Boas práticas de backend
+- Boas práticas para backend e aplicações escaláveis
 - Automação e integração de sistemas
 - Evolução como **Backend / Mobile Developer**
 
@@ -92,14 +103,14 @@ Tenho perfil analítico, gosto de entender o fluxo completo das aplicações —
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursoares&layout=compact&theme=dark&cache_seconds=1&langs_count=10)
 
-> As porcentagens refletem o uso real das linguagens nos repositórios públicos.
+> As estatísticas refletem o uso real das linguagens nos repositórios públicos.
 
 ---
 
 ## 🤝 Vamos nos conectar?
 
-- GitHub: [github.com/arthursoares](https://github.com/arthursoares)
-- Aberto a colaborar em projetos, aprender em conjunto e trocar conhecimento.
+- GitHub: [github.com/arthursoares](https://github.com/arthursoares)  
+- Aberto a colaborar em projetos, aprender em conjunto e trocar conhecimento
 
 ---
 
