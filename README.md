@@ -111,7 +111,3 @@ Tenho perfil analítico e gosto de compreender o fluxo completo das aplicações
 
 - GitHub: [github.com/arthursoares](https://github.com/arthursoares)  
 - Aberto a colaborar em projetos, aprender em conjunto e trocar conhecimento
-
----
-
-⭐ *“Aprender construindo, errar rápido e evoluir sempre.”*
