@@ -87,17 +87,6 @@ Tenho perfil analítico e gosto de compreender o sistema como um todo — do **b
 
 ---
 
-## 📊 Estatísticas & Linguagens
-
-<p align="left">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
-</p>
-
-> As estatísticas refletem o uso real das linguagens nos repositórios públicos.
-
----
-
 ## 🤝 Vamos nos conectar?
 
 - GitHub: https://github.com/Arthursooares  
