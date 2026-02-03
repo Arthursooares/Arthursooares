@@ -89,9 +89,9 @@ Tenho perfil analítico e gosto de compreender o sistema como um todo — do **b
 
 ## 📊 Estatísticas & Linguagens
 
-<img src="https://github-readme-stats.vercel.app/api?username=arthursoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arthursooares&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursoares&layout=compact&theme=dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthursooares&layout=compact&theme=dark" height="180"/>
 
 > As estatísticas refletem o uso real das linguagens nos repositórios públicos.
 
